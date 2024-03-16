@@ -1,5 +1,3 @@
-README.md
-
 # Heart Disease Classification Project
 
 ## Introduction
